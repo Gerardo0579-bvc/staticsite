@@ -36,7 +36,7 @@ header ul li a:hover{
 }
 
 h1, h2, h3{
-    text-shadow: 1px 1px 1px grey;
+    text-shadow: 1px 1px 2px grey;
 }
 h2 {
     background-image: linear-gradient(to right, white, #e4e2e2);
